@@ -1,0 +1,28 @@
+.ims{
+    width:500px;
+    height:500px;
+    border: dashed black;
+    box-shadow: 10px 5px 7px yellow;
+}
+
+h1{
+    font-size: 25px;
+    color: sienna;
+    font-weight: bold;
+    font-family: Algerian;
+}
+
+h5{
+    font-family: Comic Sans Ms;
+    font-size: 17px;
+    font-style: oblique;
+    color: white;
+}
+
+#hehe{
+    font-family: Comic Sans Ms;
+    font-size: 17px;
+    font-style: oblique;
+    color: white;
+
+}
